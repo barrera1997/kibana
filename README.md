@@ -3,7 +3,7 @@ Para importar el Dashboard, lo primero que tenemos que hacer es conectarnos al U
 
 Una vez conectados, tendremos que definir el índice que vamos a usar para visualizar los datos. En nuestro caso, el índice es sbd* y el campo sobre el que haremos búsquedas temporales es media_tiemstamp.
 
-![Alt text](./Paso1_Configure_Index_Pattern.png?raw=true "Paso1_Configure_Index_Pattern.")
+![Alt text](./Paso1_Index_Pattern.png?raw=true "Paso1_Index_Pattern.")
 
 Pulsamos en "Create" y aparecerá la siguiente pantalla:
 

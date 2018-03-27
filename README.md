@@ -32,3 +32,17 @@ Pulsamos sobre nuestro Dashboard (en este caso Dashboard_Prueba) y obtendremos l
 Pulsamos sobre "View Dashboard" y ya tenemos nuestro Dashboard importado.
 
 ![Alt text](./Dashboard_Prueba.png?raw=true "Dashboard_Prueba.")
+
+## Nuestro Dashboard está formado por 3 visualizaciones:
+
+  1. Metrics
+  
+  ![Alt text](./Metrics.png?raw=true "Metrics.")
+  
+  2. Pie
+  
+  ![Alt text](./Pie.png?raw=true "Pie.")
+  
+  3. Histograma
+  
+  ![Alt text](./Histograma.png?raw=true "Histograma.")
